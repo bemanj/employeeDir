@@ -9,3 +9,4 @@ C:\Users\rm004134263\AppData\Local\Temporary Projects\EmployeeDirectory\obj\x86\
 C:\Users\rm004134263\Documents\Jenny\EmployeeDirectory\EmployeeDirectory\obj\x86\Debug\EmployeeDirectory.exe
 C:\Users\rm004134263\Documents\Jenny\EmployeeDirectory\EmployeeDirectory\obj\x86\Debug\EmployeeDirectory.xml
 C:\Users\rm004134263\Documents\Jenny\EmployeeDirectory\EmployeeDirectory\obj\x86\Debug\EmployeeDirectory.pdb
+C:\Users\BK004313322\Documents\Sprint\EmployeeDirectory\obj\x86\Debug\EmployeeDirectory.xml
