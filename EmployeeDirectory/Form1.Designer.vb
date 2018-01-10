@@ -22,6 +22,7 @@ Partial Class Form1
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
+<<<<<<< HEAD
         Me.MarraButton = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
@@ -34,14 +35,23 @@ Partial Class Form1
         Me.MarraButton.Text = "MARRA"
         Me.MarraButton.UseVisualStyleBackColor = True
         '
+=======
+        Me.SuspendLayout()
+        '
+>>>>>>> 02743cbf9c72f8913d1b832ae14ee7b7f6b22afb
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(284, 262)
+<<<<<<< HEAD
         Me.Controls.Add(Me.MarraButton)
         Me.Name = "Form1"
         Me.Text = "Test Source Tree"
+=======
+        Me.Name = "Form1"
+        Me.Text = "Form1"
+>>>>>>> 02743cbf9c72f8913d1b832ae14ee7b7f6b22afb
         Me.ResumeLayout(False)
 
     End Sub

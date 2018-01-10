@@ -9,4 +9,8 @@ C:\Users\rm004134263\AppData\Local\Temporary Projects\EmployeeDirectory\obj\x86\
 C:\Users\rm004134263\Documents\Jenny\EmployeeDirectory\EmployeeDirectory\obj\x86\Debug\EmployeeDirectory.exe
 C:\Users\rm004134263\Documents\Jenny\EmployeeDirectory\EmployeeDirectory\obj\x86\Debug\EmployeeDirectory.xml
 C:\Users\rm004134263\Documents\Jenny\EmployeeDirectory\EmployeeDirectory\obj\x86\Debug\EmployeeDirectory.pdb
+<<<<<<< HEAD
 C:\Users\LS004313131\Documents\employeeDir\EmployeeDirectory\obj\x86\Debug\EmployeeDirectory.xml
+=======
+C:\Users\BK004313322\Documents\Sprint\EmployeeDirectory\obj\x86\Debug\EmployeeDirectory.xml
+>>>>>>> 02743cbf9c72f8913d1b832ae14ee7b7f6b22afb
