@@ -10,3 +10,4 @@ C:\Users\rm004134263\Documents\Jenny\EmployeeDirectory\EmployeeDirectory\obj\x86
 C:\Users\rm004134263\Documents\Jenny\EmployeeDirectory\EmployeeDirectory\obj\x86\Debug\EmployeeDirectory.xml
 C:\Users\rm004134263\Documents\Jenny\EmployeeDirectory\EmployeeDirectory\obj\x86\Debug\EmployeeDirectory.pdb
 C:\Users\JM004320651\Desktop\Test Source Tree\EmployeeDirectory\obj\x86\Debug\EmployeeDirectory.xml
+C:\Users\lb004382477\Documents\Visual Studio 2010\Bemanj Projects\EmployeeDirectory\obj\x86\Debug\EmployeeDirectory.xml
